@@ -10,8 +10,10 @@
 temperature.\
 3- Distance Measuring System: Developing a system that measures the distance and displays it on LCD.\
 4- Door Locker Security Systems: Developing a system to unlock a door using a password using SPI, UART, I2C, External
-EEPROM, keypad, and LCD
+EEPROM, keypad, and LCD.
+
 #Drivers
+
 1- GPIO\
 2- ICU\
 3- Ultrasonic Sensor\
