@@ -4,6 +4,7 @@
 - C For Embedded Applications (Embedded C), Real-Time OS (RTOS), Software Engineering.
   
 #Projects
+
 1- Stopwatch: Developing a system that controls the stop-watch time and displays it on a 7-segment display.\
 2- Fan Speed Controller with Temperature: Developing a system that controls the speed of a fan depending on the
 temperature.\
