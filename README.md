@@ -1,9 +1,9 @@
-#Topics
+# Topics
 - Basic Concepts of Embedded Systems, C Programming, Data Structures (Linked-List, Stack, and Queue).\
 - AVR Micro-controllers Interfacing (Implemented all the MCAL and HAL drivers).\
 - C For Embedded Applications (Embedded C), Real-Time OS (RTOS), Software Engineering.
   
-#Projects
+# Projects
 
 1- Stopwatch: Developing a system that controls the stop-watch time and displays it on a 7-segment display.\
 2- Fan Speed Controller with Temperature: Developing a system that controls the speed of a fan depending on the
@@ -12,7 +12,7 @@ temperature.\
 4- Door Locker Security Systems: Developing a system to unlock a door using a password using SPI, UART, I2C, External
 EEPROM, keypad, and LCD.
 
-#Drivers
+# Drivers
 
 1- GPIO\
 2- ICU\
